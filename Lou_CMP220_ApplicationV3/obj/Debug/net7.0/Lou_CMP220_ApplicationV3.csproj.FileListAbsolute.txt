@@ -1,0 +1,15 @@
+/Users/louai.aijabi/Projects/Lou_CMP220_ApplicationV3/Lou_CMP220_ApplicationV3/bin/Debug/net7.0/Lou_CMP220_ApplicationV3
+/Users/louai.aijabi/Projects/Lou_CMP220_ApplicationV3/Lou_CMP220_ApplicationV3/bin/Debug/net7.0/Lou_CMP220_ApplicationV3.deps.json
+/Users/louai.aijabi/Projects/Lou_CMP220_ApplicationV3/Lou_CMP220_ApplicationV3/bin/Debug/net7.0/Lou_CMP220_ApplicationV3.runtimeconfig.json
+/Users/louai.aijabi/Projects/Lou_CMP220_ApplicationV3/Lou_CMP220_ApplicationV3/bin/Debug/net7.0/Lou_CMP220_ApplicationV3.dll
+/Users/louai.aijabi/Projects/Lou_CMP220_ApplicationV3/Lou_CMP220_ApplicationV3/bin/Debug/net7.0/Lou_CMP220_ApplicationV3.pdb
+/Users/louai.aijabi/Projects/Lou_CMP220_ApplicationV3/Lou_CMP220_ApplicationV3/obj/Debug/net7.0/Lou_CMP220_ApplicationV3.csproj.AssemblyReference.cache
+/Users/louai.aijabi/Projects/Lou_CMP220_ApplicationV3/Lou_CMP220_ApplicationV3/obj/Debug/net7.0/Lou_CMP220_ApplicationV3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/louai.aijabi/Projects/Lou_CMP220_ApplicationV3/Lou_CMP220_ApplicationV3/obj/Debug/net7.0/Lou_CMP220_ApplicationV3.AssemblyInfoInputs.cache
+/Users/louai.aijabi/Projects/Lou_CMP220_ApplicationV3/Lou_CMP220_ApplicationV3/obj/Debug/net7.0/Lou_CMP220_ApplicationV3.AssemblyInfo.cs
+/Users/louai.aijabi/Projects/Lou_CMP220_ApplicationV3/Lou_CMP220_ApplicationV3/obj/Debug/net7.0/Lou_CMP220_ApplicationV3.csproj.CoreCompileInputs.cache
+/Users/louai.aijabi/Projects/Lou_CMP220_ApplicationV3/Lou_CMP220_ApplicationV3/obj/Debug/net7.0/Lou_CMP220_ApplicationV3.dll
+/Users/louai.aijabi/Projects/Lou_CMP220_ApplicationV3/Lou_CMP220_ApplicationV3/obj/Debug/net7.0/refint/Lou_CMP220_ApplicationV3.dll
+/Users/louai.aijabi/Projects/Lou_CMP220_ApplicationV3/Lou_CMP220_ApplicationV3/obj/Debug/net7.0/Lou_CMP220_ApplicationV3.pdb
+/Users/louai.aijabi/Projects/Lou_CMP220_ApplicationV3/Lou_CMP220_ApplicationV3/obj/Debug/net7.0/Lou_CMP220_ApplicationV3.genruntimeconfig.cache
+/Users/louai.aijabi/Projects/Lou_CMP220_ApplicationV3/Lou_CMP220_ApplicationV3/obj/Debug/net7.0/ref/Lou_CMP220_ApplicationV3.dll

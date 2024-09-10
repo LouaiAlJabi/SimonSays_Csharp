@@ -1,0 +1,5 @@
+/Users/louai.aijabi/Desktop/Lou_CMP220_ApplicationV3
+/Users/louai.aijabi/Desktop/Lou_CMP220_ApplicationV3.dll
+/Users/louai.aijabi/Desktop/Lou_CMP220_ApplicationV3.deps.json
+/Users/louai.aijabi/Desktop/Lou_CMP220_ApplicationV3.runtimeconfig.json
+/Users/louai.aijabi/Desktop/Lou_CMP220_ApplicationV3.pdb
