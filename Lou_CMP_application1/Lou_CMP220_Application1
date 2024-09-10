@@ -1,0 +1,93 @@
+﻿static int[] GeneratePattern(int x)
+{
+    int[] Color = { 1, 2, 4, 14 };
+    Random rng = new Random();
+    int[] trials = new int[x];
+    for (int trial = 0; trial < trials.Length; trial++)
+    {
+        trials[0] = Color[rng.Next(0, 4)];
+    }
+    return trials;
+}
+
+static void ShowPattern(int trial)
+{
+    int[] patterns = GeneratePattern(trial);
+    foreach (int pattern in patterns)
+    {
+        Console.BackgroundColor = (ConsoleColor)pattern;
+        Console.WriteLine("               ");
+        Thread.Sleep(1000);
+        Console.Clear();
+        Thread.Sleep(500);
+    };
+}
+
+
+static int[] PlayerInput()
+{
+    Console.WriteLine("enter your guess dude");
+    string playerinput = Console.ReadLine();
+    int[] inputnums = new int[playerinput.Length];
+
+    for (int letter = 0; letter < playerinput.Length; letter++)
+    {
+        inputnums[letter] = playerinput[letter] switch
+        {
+            'r' => 4,
+            'g' => 2,
+            'y' => 14,
+            'b' => 1,
+            _ => 666
+        };
+    }
+    return inputnums;
+}
+
+static bool Compare(int[] player, int[] pattern)
+{
+    bool i = true;
+    for (int num = 0; num < player.Length; num++)
+    {
+        if (player[num] == pattern[num])
+        {
+            i = true;
+        }
+        else
+        {
+            i = false;
+        }
+    }
+    return i;
+}
+
+
+static int Game(string playername)
+{
+    bool status = true;
+    int score = 1;
+    int trial = 4;
+    Console.WriteLine($"Ready to go, {playername}");
+    Console.Clear();
+    while(status)
+    {
+        int[] pattern = GeneratePattern(trial);
+        ShowPattern(trial);
+        Console.BackgroundColor = ConsoleColor.Black;
+        Thread.Sleep(500);
+        int[] playeranswer = PlayerInput();
+        status = Compare(playeranswer, pattern);
+        if (status)
+        {
+            score++;
+            trial++;
+        }
+    }
+
+    return (score - 1);
+}
+
+
+string name = "Lou";
+Game(name);
+
